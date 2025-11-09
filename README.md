@@ -8,13 +8,13 @@ Dashboard interactivo desarrollado para el análisis integral de datos universit
 
 ## 👥 Equipo de Desarrollo
 
-| Nombre | Rol |
-|--------|-----|
-| **Alejandro Escorcia** | Desarrollador & Analista de Datos |
-| **Ashley Urueta** | Desarrolladora & Diseñadora de Visualizaciones |
+| Nombre |
+|--------|
+| **Alejandro Escorcia** | 
+| **Ashley Urueta** | 
 
 **Institución:** Universidad de la Costa  
-**Curso:** Minería de Datos (Data Mining)  
+**Curso:** Minería de Datos (Data Mining)   
 **Docente:** José Escorcia-Gutierrez, Ph.D.  
 **Departamento:** Ciencias de la Computación y Electrónica
 
@@ -419,17 +419,6 @@ Este proyecto fue desarrollado con fines académicos como parte del curso de Min
 **Uso Académico:** Se permite el uso y modificación del código para propósitos educativos citando apropiadamente a los autores.
 
 ---
-
-## 🙏 Agradecimientos
-
-- Al profesor José Escorcia-Gutierrez, Ph.D. por la guía y enseñanzas
-- A la Universidad de la Costa por proporcionar el entorno de aprendizaje
-- A la comunidad de Streamlit por la excelente documentación
-- A todos los recursos open-source utilizados en este proyecto
-
----
-
-<div align="center">
 
 **Desarrollado con 💙 por estudiantes de Data Mining**
 
